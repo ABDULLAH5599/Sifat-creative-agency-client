@@ -19,7 +19,7 @@ const Order = () => {
     const onSubmit = data => {
         data.created = new Date();
 
-        fetch('http://localhost:4000/addOrder',{
+        fetch('https://afternoon-beach-11581.herokuapp.com/addOrder',{
             method: 'POST',
             headers: {'content-type': 'application/json'},
             body: JSON.stringify(data)
