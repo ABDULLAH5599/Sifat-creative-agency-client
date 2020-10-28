@@ -1,5 +1,5 @@
 # Creative Agency
-Live Site [Click to Open Live Website](https://creative-agency-fire-auth.web.app/)
+[Click to Open Live Website](https://creative-agency-fire-auth.web.app/)
 
 [My Resume Link](https://drive.google.com/file/d/1meWM7UoEJESJ6m8bS_CE1n9epGYOd_xd/view?usp=sharing)
 
