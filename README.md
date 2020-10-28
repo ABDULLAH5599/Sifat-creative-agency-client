@@ -7,8 +7,6 @@ ___
 ### Description
 Creative Agency is a service based IT firm where anyone can place an order for any service by creating an account with google login form. Beside that it has the dashboard to manage admin panel to add or remove services.
 ___
-
-___
 ### Features
 - Fully Responsive Design.
 - Google Login Form.
