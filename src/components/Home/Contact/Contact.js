@@ -19,9 +19,7 @@ const Contact = () => {
                     </form>
                 </div>
             </div>
-            <div className="footer text-center">
-                <small>copyright Orange labs 2020</small>
-            </div>
+           
             </div>
         </div>
     );

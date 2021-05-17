@@ -13,7 +13,7 @@ const Review = () => {
 
     return (
         <section className="container my-5">
-            <h2 className="text-center">Clients <span style={{color:'#7AB259'}}>Feedback</span></h2>
+            <h2 style={{ color: "#555454"}} className="text-center">Our Clients <span style={{color:'#fc3030'}}>Feedback</span></h2>
             <div className="row mt-5">
                     {
                         reviews.map(review =><ReviewCard review={review}></ReviewCard>)

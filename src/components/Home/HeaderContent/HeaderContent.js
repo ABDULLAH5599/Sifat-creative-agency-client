@@ -6,7 +6,7 @@ const HeaderContent = () => {
         <div className="container mt-5">
             <div className="row">
                 <div className="col-md-4 col-sm-12">
-                    <h1 className="mb-5">Let’s Grow Your <br/>Brand To The <br/> Next Level</h1>
+                    <h1 className="mb-5">Let’s Start <br/>Your Business With Our <br/> Nice Team</h1>
                     <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat </p>
                     <button className="btn btn-primary main-btn">Hire us</button>
                 </div>

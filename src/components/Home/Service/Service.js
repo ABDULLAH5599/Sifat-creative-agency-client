@@ -12,8 +12,8 @@ const Service = () => {
     }, [])
 
     return (
-        <section className="container text-center my-5">
-            <h2>Provide awesome <span><Link to="/order/:`${name}`" style={{color:'#7AB259'}}>services</Link></span></h2>
+        <section className="container text-center my-5 pt-5">
+            <h2 style={{ color: "#555454"}} class='pt-5 '>Provide awesome <span><Link to="/order/:`${name}`" style={{color:'#fc3030'}}>services</Link></span></h2>
             <div className="row mt-5">
                     {
                         services.map(service =><ServiceItem service={service}></ServiceItem>)

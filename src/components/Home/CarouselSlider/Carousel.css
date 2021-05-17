@@ -1,5 +1,5 @@
 .carousel-slider{
-    background-color:#111430;
+    background-color:#f9f9fa;
     padding: 50px 0;
 }
 
@@ -9,4 +9,5 @@
     align-items: center;
     justify-content: center;
     height: 60vh;
+  
   }
